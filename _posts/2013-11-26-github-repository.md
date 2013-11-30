@@ -19,7 +19,7 @@ Name your repository “username.github.io”, where “username” is your own 
 
 ![]({{ site.baseurl }}/assets/images/create-repo-2.png)
 
-On the next page, ignore the text for now and click on the repo name. If you have done this before and are already familiar with GitHub, you may clone your repository to work with it locally.
+On the next page, ignore the text for now and click on the repo name. If you have done this before and are already familiar with GitHub, you may clone your repository to work with it locally. **If you didn't create a Readme you should do so now, by clicking on "We recommend every repository include a README...".**
 
 You have created a GitHub repository containing one file (the README.md GitHub added for you). **But what exactly is a repository?** You can imagine this as a place containing all your files for a project, but with a very useful feature: It has a memory of all the changes you do to those files. GitHub keeps track of all changes and keeps a kind of journal for your project. Whether you change or delete files, you can always retrace their history and restore a previous version. That's why this is called a Version Control System (VCS).
 Neat, isn’t it?
