@@ -37,7 +37,7 @@ You surely have noticed that this isn't really collaboration yet, because when y
 ##### Make a pull request
 A pull request is basically GitHubs way of saying "Hi, I made changes and I think you should add them to your repository". If your request is accepted, all changes will be merged into their repository and marked as contributed by you.
 
-On the project page in your account, among the icons on the right side there is a button for pull requests. Click it and then the green button saying "New pull request". You will see a comparison of the files you changed, to rewiew and make sure you will only submit the stuff you want to.
+On the project page in your account, among the icons on the right side there is a button for pull requests. Click it and then the green button saying "New pull request". You will see a comparison of the files you changed, to review and make sure you will only submit the stuff you want to.
 
 ![]({{ site.baseurl }}/assets/images/social-2.png)
 
@@ -46,7 +46,7 @@ After you click on the area that says "Click to create a pull request for this c
 `![A cute cat!](http://placekitten.com/g/200/120)` 
 
 ##### Accept a pull request
-If you are the one receiving a pull request, you will be noticed by GitHub. You can review the changes, read the request comment and go all awwwwww on cute cat images. After that, don't forget to merge the changes into your repository.
+If you are the one receiving a pull request, you will be notified by GitHub. You can review the changes, read the request comment and go all awwwwww on cute cat images. After that, don't forget to merge the changes into your repository.
 
 ![]({{ site.baseurl }}/assets/images/social-3.png)
 ![]({{ site.baseurl }}/assets/images/social-4.png)

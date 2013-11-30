@@ -11,7 +11,7 @@ Use a <em>layout</em> which has a menu with links to both of your pages. Use tha
 
 #### How to do it
 
-So first we must create the layout. This is a special kind of page which determines how all your HTML pages should look like. Our motor *Jekyll* expects those layout files to be in a folder called `_layouts`. But how do we create a folder on GitHub?
+So first we must create the layout. This is a special kind of page which determines how all your HTML pages should look like. Our motor *Jekyll* expects those layout files to be in a folder called `_layouts`. Be careful how you name this folder, it has to be layouts with an **s**! But how do we create a folder on GitHub?
 
 This is as easy as creating a new file. Actually you start as if you wanted to create a new file, but you write the name of the folder in the name field and *do not click on OK yet!*
 
