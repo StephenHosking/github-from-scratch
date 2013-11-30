@@ -53,7 +53,7 @@ Welcome to the internets!
 
 ## What did you just do?
 
-Remember the data we put into the config file? Turns out each page can have its own set of data within *front matter*. Everything between the two three-minus lines is frontmatter. As with config, you can put all kinds of data within a page. Actually you're already using a specific *data format* called *Yaml*. Wasn't so hard so learn, that *data format*, right? Key, colon, value.
+Remember the data we put into the config file? Turns out each page can have its own set of data within *front matter*. Everything between the two three-minus lines is frontmatter. As with config, you can put all kinds of data within a page. Actually you're already using a specific *data format* called *Yaml*. Wasn't so hard to learn, that *data format*, right? Key, colon, value.
 
 In your layout you now use a `site.title` which is read from the config file and a `page.title` which comes from the front matter in your pages. In case you are wondering: `<hr />` is a HTML Tag for printing out a simple horizontal line, or *horizontal rule*. 
 
