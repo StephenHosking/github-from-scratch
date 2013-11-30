@@ -17,6 +17,10 @@ Look at the code of this page, fork, add yourself and send a pull request.
 [![nrjra](https://identicons.github.com/nrjra.png)](http://nrjra.github.io)
 [![dim-0](https://identicons.github.com/dim-0.png)](http://dim-0.github.io)
 [![te-geekette](https://identicons.github.com/te-geekette.png)](http://te-geekette.github.io)
+<<<<<<< HEAD
 [![mietzmithut](https://identicons.github.com/mietzmithut.png)](http://mietzmithut.github.io)
 [![niccimain](https://identicons.github.com/niccimain.png)](http://niccimain.github.io)
 [![portabella](https://identicons.github.com/portabella.png)](http://portabella.github.io)
+=======
+[![yelitong](https://identicons.github.com/yelitong.png)](http://yelitong.github.io)
+>>>>>>> befa75dc78b8741b42df23001df33cd4f5999e62
