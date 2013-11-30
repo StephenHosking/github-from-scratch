@@ -14,7 +14,7 @@ Remember when we said a repository is like a folder with a journal? Well, until 
 
 and so forth.
 
-While these messages tell you which file was changed, they don't tell you what exatly you did. More importantly, they don't tell you *why* you did it.
+While these messages tell you which file was changed, they don't tell you what exactly you did. More importantly, they don't tell you *why* you did it.
 
 Imagine you opened your personal journal from last year, and it featured entries like
 
