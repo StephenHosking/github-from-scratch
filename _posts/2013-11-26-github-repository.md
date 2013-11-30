@@ -34,6 +34,7 @@ Add a few words - a casual greeting usually works well. Save the file (“Commit
 
 Let’s take a look! Open a new tab in your browser and go to http://username.github.io. You replaced “username” with your GitHub username, right? Of course you did.
 And now you are viewing the contents of your index.html file! 
+(If you get an error, wait for 10 minutes... the first publish can take some time.)
 
 **Congratulations, you have your own GitHub page!**
 
