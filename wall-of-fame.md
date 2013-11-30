@@ -22,3 +22,5 @@ Look at the code of this page, fork, add yourself and send a pull request.
 [![portabella](https://identicons.github.com/portabella.png)](http://portabella.github.io)
 [![yelitong](https://identicons.github.com/yelitong.png)](http://yelitong.github.io)
 [![bee-doh](https://identicons.github.com/bee-doh.png)](http://bee-doh.github.io)
+[![torili](https://identicons.github.com/torili.png)](http://torili.github.io)
+[![perele](https://identicons.github.com/perele.png)](http://perele.github.io)
