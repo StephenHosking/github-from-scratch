@@ -82,7 +82,7 @@ ul.posts span {
   height: 32px;
   overflow: hidden;
   text-indent: 101%;
-  background: url('/assets/images/lg_opentechschool.png') 0 50% no-repeat;
+  background: url('assets/images/lg_opentechschool.png') 0 50% no-repeat;
 }
 
 .footer {
