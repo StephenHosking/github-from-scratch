@@ -29,7 +29,7 @@ Place this image tag below the paragraph.
 
 The browser now knows that you want to have an image displayed at this position. But of course it doesn't know yet *what* image you want to see there. We have to give the browser some details.
 
-We do that by adding an *attribute*: the *source* of the file to display, or in short, `src`.
+We do that by adding an *attribute*: the *source* of the file to display, or in short, `src`. For convenience here is th URL of the image: ``` http://placekitten.com/g/500/300```
 
 ![]({{ site.baseurl }}/assets/images/html-5.png)
 
