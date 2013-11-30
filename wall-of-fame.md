@@ -15,3 +15,4 @@ Look at the code of this page, fork, add yourself and send a pull request.
 [![nesQuick](https://identicons.github.com/nesQuick.png)](http://nesQuick.github.io)
 [![uberbruns](https://identicons.github.com/uberbruns.png)](http://uberbruns.github.io)
 [![nrjra](https://identicons.github.com/nrjra.png)](http://nrjra.github.io)
+[![dim-0](https://identicons.github.com/dim-0.png)](http://dim-0.github.io)
