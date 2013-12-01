@@ -27,8 +27,10 @@ Now open `yourusername.github.io/2013/11/30/my-first-post.html`. Awesome, huh? T
 
 Create a new file `post.html` in the `_layouts` folder. Put this inside the file:
 
+{% raw %} 
     <h1>{{ page.title }}</h1>
     {{ content }}
+{% endraw %}
 
 In your post, change `layout:` from `default` to `post`.
 
@@ -37,19 +39,23 @@ If you now go back to `yourusername.github.io/2013/11/30/my-first-post.html` you
 
 Let's make a second post `2013-11-30-my-second-post.md` with this inside:
 
+
     ---
     title: my second post
     layout: post
     ---
     hello kittens
 
+
 Only one thing left missing. We want to have a list of all our blogposts on our index, right? Put this into your `index.html`:
     
+{% raw %}
     <ul>
-        {% raw %}{% for post in site.posts %}
+        {% for post in site.posts %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}{% endraw %}
+        {% endfor %}
     </ul>
+{% endraw %}
 
 `yourusername.github.io/` should now feature the two posts you already wrote. But the great part is: any post you add will automatically appear in this list! Awesome, huh?
 
