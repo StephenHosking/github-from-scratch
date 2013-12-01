@@ -24,3 +24,5 @@ Look at the code of this page, fork, add yourself and send a pull request.
 [![bee-doh](https://identicons.github.com/bee-doh.png)](http://bee-doh.github.io)
 [![torili](https://identicons.github.com/torili.png)](http://torili.github.io)
 [![perele](https://identicons.github.com/perele.png)](http://perele.github.io)
+[![perele](https://identicons.github.com/perele.png)](http://perele.github.io)
+[![katrin-k](https://identicons.github.com/katrin-k.png)](http://katrin-k.github.io)
