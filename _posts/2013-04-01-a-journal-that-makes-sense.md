@@ -49,7 +49,7 @@ So from now on, when you edit your files you will add a helpful commit message. 
 
     
     fix typo on kittens.html
-    change colors of headlines for better radability
+    change colors of headlines for better readability
     add image of barky to index because dogs are cute too
 
 That's much better, don't you think?
