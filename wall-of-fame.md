@@ -25,3 +25,4 @@ Look at the code of this page, fork, add yourself and send a pull request.
 [![torili](https://identicons.github.com/torili.png)](http://torili.github.io)
 [![perele](https://identicons.github.com/perele.png)](http://perele.github.io)
 [![katrin-k](https://identicons.github.com/katrin-k.png)](http://katrin-k.github.io)
+[![stephenhosking](https://identicons.github.com/stephenhosking.png)](http://stephenhosking.github.io)
